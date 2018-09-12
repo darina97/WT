@@ -1,0 +1,26 @@
+ ## Advantages and disadvantages of wireless communication
+
+Advantages:
+1. Mobility
+The most remarkable feature of wireless communication is mobility. 
+Electromagnetic waves that are used for wireless communication do need any medium to travel from one place to another.
+Mobile phone is the perfect example of mobility provided by a wireless system.
+While using a mobile phone, device mobility is not just limited to short distances but you can also move large distances,
+for example, from one state or country to another.
+
+2. Economical
+Eliminating the need of physical conductor between two communicating devices, the cost that is associated with setting up,
+planning and maintaining a network for communication can be reduced considerably.
+
+3. Flexibility
+Addition of a new device in a wired systemm might require a lot of cabling and modifications in an existing network structure.
+Moreover, failure of a single component of a wired network can lead to impairment of the entire network.
+For example, when a network is laid using ring topology, each device on the network is connected to two adjacent devices, thus 
+forming a connected structure in the form of a circular ring. A message travels from one device to another before it can reach
+its destination. In such a situation, the entire network will stop working even when a single device is not working properly.
+
+4. Convenience
+A wide range of wireless devices , such as mobile phones, laptops and PDAs are now available in different sizes as well
+as specifications. It is convenient and easy to use these devices because connection to a wireless network is provided just 
+at a button click. These devices are also portable and easy to carry along with you while you are traveling and need to
+exchange data on the go
